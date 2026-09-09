@@ -10,7 +10,7 @@
 
 ## 📫 Connect With Me
 
-📧 [Email](mailto:sanjeevjai01@gmail.com)
+ [Email]: sanjeevjai01@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/sanjeev-kumar-jaiswal-362520371)
 🐙 [GitHub](https://github.com/sanjeevjai01)
 
