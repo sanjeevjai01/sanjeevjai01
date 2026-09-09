@@ -7,6 +7,14 @@
 🚀 Building projects and improving my technical skills  
 🌱 Currently exploring AI and modern technologies
 
+
+## 📫 Connect With Me
+
+📧 [Email](mailto:sanjeevjai01@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/sanjeev-kumar-jaiswal-362520371)  
+🐙 [GitHub](https://github.com/sanjeevjai01)
+
+
 ## 🛠️ Tech Stack
 
 💻 Languages: Python, JavaScript, 
@@ -15,13 +23,25 @@
 🔧 Tools: Git, GitHub, VS Code  
 ☁️ Cloud & OS: AWS, Linux, Windows
 
+
 ## 🚀 Featured Projects
 
-### (1)🌦️ Python Weather App
+# (1)🌦️ Python Basic Weather App
 - Weather information application
-- Uses Python and weather API
 - Displays weather details based on location
-- 
+
+## (2)🎙️ Python Basic Voice Assistant
+- Developed a voice-based assistant using Python
+- Can process voice commands and perform tasks.
+  
+### 📚 Digital Library 
+- Online platform for accessing PDFs and notes
+- Digital reading and downloading features
+- **Tech: PHP, HTML, CSS, JavaScript, MySQL
+- ## 📊 GitHub Stats
+
+![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeevjai01&show_icons=true)
+ 
 - ## 📜 Certifications
 
 - 🐍 Python Programming — https://rfskillingacademy.com/certificate/group/300/530792
