@@ -10,7 +10,7 @@
 
 ## 📫 Connect With Me
 
- [Email]: sanjeevjai01@gmail.com)
+ [Email]: sanjeevjai01@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/sanjeev-kumar-jaiswal-362520371)
 🐙 [GitHub](https://github.com/sanjeevjai01)
 
@@ -28,8 +28,11 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js"/>
 </p>
 
@@ -43,7 +46,9 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
 
@@ -51,14 +56,16 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" alt="AWS"/>
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/>
 </p>
 
 ## 🚀 Featured Projects
 
 ## (1) 🌦️ Python Basic Weather App
-
+https://oibsip-mwi9.onrender.com/  (Live Demo)
 * Weather information application
 * Displays weather details based on location
 
