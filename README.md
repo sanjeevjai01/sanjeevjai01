@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Projects
 
-# (1)🌦️ Python Basic Weather App
+## (1)🌦️ Python Basic Weather App
 - Weather information application
 - Displays weather details based on location
 
@@ -34,13 +34,11 @@
 - Developed a voice-based assistant using Python
 - Can process voice commands and perform tasks.
   
-### 📚 Digital Library 
+## (3)📚 Digital Library 
 - Online platform for accessing PDFs and notes
 - Digital reading and downloading features
 - **Tech: PHP, HTML, CSS, JavaScript, MySQL
-- ## 📊 GitHub Stats
-
-![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjeevjai01&show_icons=true)
+  
  
 - ## 📜 Certifications
 
