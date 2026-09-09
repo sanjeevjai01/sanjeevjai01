@@ -1,43 +1,78 @@
 # Hi 👋, I'm Sanjeev
+
 ## 👨‍💻 About Me
 
-🎓 BCA Graduate  
-💻 Aspiring Software Developer  
-🐍 Learning Python & Web Development  
-🚀 Building projects and improving my technical skills  
+🎓 BCA Graduate
+💻 Aspiring Software Developer
+🐍 Learning Python & Web Development
+🚀 Building projects and improving my technical skills
 🌱 Currently exploring AI and modern technologies
-
 
 ## 📫 Connect With Me
 
-📧 [Email](mailto:sanjeevjai01@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/sanjeev-kumar-jaiswal-362520371)  
+📧 [Email](mailto:sanjeevjai01@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/sanjeev-kumar-jaiswal-362520371)
 🐙 [GitHub](https://github.com/sanjeevjai01)
-
 
 ## 🛠️ Tech Stack
 
-💻 Languages: Python, JavaScript, 
-🌐 Web: HTML, CSS, PHP, React.js  
-🗄️ Database: MySQL, SQL  
-🔧 Tools: Git, GitHub, VS Code  
-☁️ Cloud & OS: AWS, Linux, Windows
+### 💻 Languages
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+</p>
+
+### 🌐 Web
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React.js"/>
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+</p>
+
+### ☁️ Cloud & OS
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" alt="Windows"/>
+</p>
 
 ## 🚀 Featured Projects
 
-## (1)🌦️ Python Basic Weather App
-- Weather information application
-- Displays weather details based on location
+## (1) 🌦️ Python Basic Weather App
 
-## (2)🎙️ Python Basic Voice Assistant
-- Developed a voice-based assistant using Python
-- Can process voice commands and perform tasks.
-  
-## (3)📚 Digital Library 
-- Online platform for accessing PDFs and notes
-- Digital reading and downloading features
-- **Tech: PHP, HTML, CSS, JavaScript, MySQL
+* Weather information application
+* Displays weather details based on location
+
+## (2) 🎙️ Python Basic Voice Assistant
+
+* Developed a voice-based assistant using Python
+* Can process voice commands and perform tasks.
+
+## (3) 📚 Digital Library
+
+* Online platform for accessing PDFs and notes
+* Digital reading and downloading features
+* **Tech: PHP, HTML, CSS, JavaScript, MySQL**
+
   
  
 - ## 📜 Certifications
