@@ -8,10 +8,15 @@
 🚀 Building projects and improving my technical skills
 🌱 Currently exploring AI and modern technologies
 
-## 📫 Connect With Me
-Email Id- Sanjeevjai01@gmail.com
+# Connect with Me
+📧 [Email](mailto:sanjeevjai01@gmail.com)
+
 💼 [LinkedIn](https://www.linkedin.com/in/sanjeev-kumar-jaiswal-362520371)
+
 🐙 [GitHub](https://github.com/sanjeevjai01)
+
+📱 +91 7481012471
+
 
 ## 🛠️ Tech Stack
 
