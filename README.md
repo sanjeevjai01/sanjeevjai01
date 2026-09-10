@@ -88,4 +88,4 @@ https://oibsip-mwi9.onrender.com/ (Live Demo)
 - ☁️ Cloud Computing Introduction- https://simpli-web.app.link/e/nLgDRlgAN4b
 - 🌐 Data Science And Analytics (HP life) - https://www.life-global.org/certificate/121ae3aa-25eb-4047-a984-ac1e819b1551
 - 💻 Hp Life Ambassador badge - https://www.life-global.org/en/badges/6325a781-7f12-4392-b6b5-30c10598efb3
-- 💼 Kushal Yuva Program — BSDM
+- 💼 Kushal Yuva Program — Bihar Skill Development mission.
