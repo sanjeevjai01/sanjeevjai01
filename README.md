@@ -3,7 +3,6 @@
 ## 👨‍💻 About Me
 
 🎓 BCA Graduate
-💻 Aspiring Software Developer
 🐍 Learning Python & Web Development
 🚀 Building projects and improving my technical skills
 🌱 Currently exploring AI and modern technologies
