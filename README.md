@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 🎓 BCA Graduate
-🐍 Learning Python & Web Development
+🐍 Learning Python, SQL, PowerBi, Excel, Linux, ServiceNow, Communication...
 🚀 Building projects and improving my technical skills
 🌱 Currently exploring AI and modern technologies
 
