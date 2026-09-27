@@ -68,8 +68,13 @@ https://oibsip-mwi9.onrender.com/ (Live Demo)
 
 * Developed a voice-based assistant using Python
 * Can process voice commands and perform tasks.
+## (3)💬 Chat Application
 
-## (3) 📚A Library Management
+A user-friendly chat application built to enable real-time communication and message exchange.
+
+**Tech:** Python, HTML, CSS, JavaScript
+
+## (4) 📚A Library Management
 
 Features
 Add and manage books
