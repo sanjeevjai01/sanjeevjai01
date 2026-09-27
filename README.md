@@ -69,11 +69,15 @@ https://oibsip-mwi9.onrender.com/ (Live Demo)
 * Developed a voice-based assistant using Python
 * Can process voice commands and perform tasks.
 
-## (3) 📚 Digital Library
+## (3) 📚A Library Management
 
-* Online platform for accessing PDFs and notes
-* Digital reading and downloading features
-* **Tech: PHP, HTML, CSS, JavaScript, MySQL**
+Features
+Add and manage books
+Search for books
+Issue and return books
+View library records
+Simple and beginner-friendly interface
+**Technologies Used- Python
 
   
  
