@@ -62,7 +62,7 @@
 Description:
 A modern, responsive personal portfolio website built with React and Vite. It showcases my skills, projects, education, certifications, experience, resume, and social profiles, with a secure admin dashboard for managing portfolio content.
 
-##Live Demo https://sanjeev-portfolio-rosy.vercel.app/
+ https://sanjeev-portfolio-rosy.vercel.app/ (Live link)
 
 ##🛠️ Technologies
 React.js
