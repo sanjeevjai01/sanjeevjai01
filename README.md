@@ -57,24 +57,47 @@
 
 ## 🚀 Featured Projects
 
-## (1) 🌦️ Python Basic Weather App
+## (1)🖥️ Sanjeev Portfolio
+
+Description:
+A modern, responsive personal portfolio website built with React and Vite. It showcases my skills, projects, education, certifications, experience, resume, and social profiles, with a secure admin dashboard for managing portfolio content.
+
+Live Website:
+Sanjeev Portfolio — Live Demo https://sanjeev-portfolio-rosy.vercel.app/
+
+##🛠️ Technologies
+React.js
+Vite
+JavaScript
+CSS3
+Supabase
+React Router
+React Icons
+Vercel
+##✨ Features
+Modern responsive portfolio UI
+Dark futuristic design
+Projects & skills,Education, Certyifications, Resume,Contacts, showcase
+Secure admin login
+Admin dashboard for content management
+## (2) 🌦️ Python Basic Weather App
 
 https://oibsip-mwi9.onrender.com/ (Live Demo)
 
 * Weather information application
 * Displays weather details based on location
 
-## (2) 🎙️ Python Basic Voice Assistant
+## (3) 🎙️ Python Basic Voice Assistant
 
 * Developed a voice-based assistant using Python
 * Can process voice commands and perform tasks.
-## (3)💬 Chat Application
+## (4)💬 Chat Application
 
 A user-friendly chat application built to enable real-time communication and message exchange.
 
 **Tech:** Python, HTML, CSS, JavaScript
 
-## (4) 📚A Library Management
+## (5) 📚A Library Management
 
 Features
 Add and manage books
