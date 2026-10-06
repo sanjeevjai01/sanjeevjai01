@@ -113,6 +113,7 @@ Simple and beginner-friendly interface
 - 🐍 Python Programming — https://rfskillingacademy.com/certificate/group/300/530792
 - 🟨  Javascript for Beginners-https://simpli-web.app.link/e/dyndlI7Th6b
 - 🤖 Generative AI for Beginners — https://simpli.app.link/m9fH2v20L4b
+- 💻 Linux course by The Linux foundation.....
 - 🌐  Frontend Development — https://simpli.app.link/LRp8kDcS04b
 - 🧠 Fundamentals of Artificial Intelligence — https://web.certificate.wfglobal.org/en/certificate?certificateId=6a4379959ca40b8cfdf4ee88
 - ☁️ Cloud Computing Introduction- https://simpli-web.app.link/e/nLgDRlgAN4b
